@@ -18,6 +18,7 @@ The first step in learning this was to build a communication device - a basic te
 
 The second step was the creation of a code (which isn't Morse code) to which we'll encode our messages to send them to each other. The code I used was built as a sort of three-dimensional cube created together with my classmate Danielle Forward. 
 
+
 ###Key
 ![alt tag](https://s3-us-west-1.amazonaws.com/systems-noam/images/systems/Revised_Code_Danielle_Noam.png)
 
