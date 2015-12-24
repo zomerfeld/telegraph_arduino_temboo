@@ -10,6 +10,7 @@
 [Early Prototype](https://youtu.be/BHRiO0pCflk) (no SMS, just serial control)
 
 
+###The Project
 In our Systems design class at California College of the Arts (taught by Hugh Dubberly) we were trying to understand communication systems by building one of our own. We were abstracting each of the processes and layers, diagramming and visualizing.
 The first step in learning this was to build a communication device - a basic telegraph made out of a wooden board, a nail, wire and two batteries. 
 
@@ -17,6 +18,7 @@ The first step in learning this was to build a communication device - a basic te
 
 The second step was the creation of a code (which isn't Morse code) to which we'll encode our messages to send them to each other. The code I used was built as a sort of three-dimensional cube created together with my classmate Danielle Forward. 
 
+###Key
 ![alt tag](https://s3-us-west-1.amazonaws.com/systems-noam/images/systems/Revised_Code_Danielle_Noam.png)
 
 After testing the codes we made, we were asked to improve the input or the output of this basic telegraph to allow for easier & faster communication.
