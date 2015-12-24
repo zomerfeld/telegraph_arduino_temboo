@@ -7,7 +7,7 @@
 
 [Final Demo 2](https://youtu.be/oKgJvz0VeJY)
 
-[Early Prototype](https://youtu.be/BHRiO0pCflk)
+[Early Prototype](https://youtu.be/BHRiO0pCflk) (no SMS, just serial control)
 
 
 In our Systems design class at California College of the Arts (taught by Hugh Dubberly) we were trying to understand communication systems by building one of our own. We were abstracting each of the processes and layers, diagramming and visualizing.
