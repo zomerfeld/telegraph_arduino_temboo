@@ -1,6 +1,6 @@
 ###### telegraph_arduino_temboo
 #Arduino Telegraph - Code System project from Systems class @CCA
-![alt tag](https://s3-us-west-1.amazonaws.com/systems-noam/images/systems/IMG_0017.jpg)
+![alt tag](https://s3-us-west-1.amazonaws.com/systems-noam/images/systems/IMG_0020.JPG)
 
 ###YouTube Videos
 [Final Demo 1](https://youtu.be/Q5agbIDerKQ)
